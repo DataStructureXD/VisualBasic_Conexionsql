@@ -1,0 +1,11 @@
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\bin\Debug\conectionSql.exe.config
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.Form1.resources
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.Resources.resources
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.vbproj.GenerateResource.Cache
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\bin\Debug\conectionSql.exe
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\bin\Debug\conectionSql.pdb
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\bin\Debug\conectionSql.xml
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.exe
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.xml
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.pdb
+C:\Users\Ruben\OneDrive\Escritorio\CEREZO_RUBEN_ASIGNACION4\ArregloN\conectionSql\conectionSql\obj\Debug\conectionSql.vbprojResolveAssemblyReference.cache
